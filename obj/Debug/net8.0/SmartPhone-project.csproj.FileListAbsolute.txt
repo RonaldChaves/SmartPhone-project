@@ -1,0 +1,14 @@
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\bin\Debug\net8.0\SmartPhone-project.exe
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\bin\Debug\net8.0\SmartPhone-project.deps.json
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\bin\Debug\net8.0\SmartPhone-project.runtimeconfig.json
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\bin\Debug\net8.0\SmartPhone-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\bin\Debug\net8.0\SmartPhone-project.pdb
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\SmartPhone-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\SmartPhone-project.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\SmartPhone-project.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\SmartPhone-project.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\SmartPhone-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\refint\SmartPhone-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\SmartPhone-project.pdb
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\SmartPhone-project.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\SmartPhone-project\obj\Debug\net8.0\ref\SmartPhone-project.dll
